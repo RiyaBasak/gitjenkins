@@ -19,6 +19,7 @@ public class MavenGit {
 		Thread.sleep(5000);
 		System.out.println("Success");
 		driver.quit();
+		System.out.println("code is pushed");
 		
 		
 		
